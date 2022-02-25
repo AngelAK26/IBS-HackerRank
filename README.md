@@ -1,6 +1,6 @@
 # IBS-HackerRank
 
-lEARNING PART-4
+LEARNING PART-4
 
 Activity 2 :-
 
